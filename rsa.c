@@ -31,11 +31,10 @@ int factorize(char *buffer)
 return (0);
 }
 
-
 /**
  * main - main function
  *
- *
+ * Author: Thaoban Abdrasheed
  * Return: void
  */
 int main(int argc, char *argv[])
